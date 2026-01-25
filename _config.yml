@@ -33,8 +33,11 @@ aux_links:
   "@ Columbia":
     - "https://philosophy.columbia.edu/content/undergraduate-major-philosophy"
 aux_links_new_tab: true
-
-
+callouts:
+  note:
+    Title: Note
+    color: purple
+    
 plugins:
   - jekyll-sitemap
   - jekyll-target-blank

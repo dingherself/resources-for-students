@@ -21,6 +21,15 @@ Here’s an example in context, with the thesis in bold:
 
 [^nussbaum]: Martha Nussbaum, “American Women: Preferences, Feminism, Democracy,” in *Sex and Social Justice* (New York: Oxford University Press, 1999), p. 132 (my emphasis).
 
+{: .note-title }
+> 📌 The thesis is not a road map
+>
+> A road map tells the reader what to expect in each part of the paper:
+> 
+> > In the first section, I will . . . . Then, I will . . . . Finally, I will . . . .
+>
+> This is not a thesis; it serves a different function. A road map sometimes follows the thesis, but it is not the thesis itself.
+
 ## What’s a *good* thesis?
 
 One common mistake is a thesis that’s overbroad or overambitious:
@@ -38,13 +47,5 @@ In other words, a good thesis should be *just narrow enough* to be **arguable**.
 1. It should carve out a *genuine/non-trivial* question that is also *answerable* within the space you have.
 2. It should offer a more or less *original* (as one of my undergraduate professors likes to say, *newsworthy to your classmates*) answer to that question in a way that extends our discussions.
 3. It should also be *well focused*, *clearly stated*, and *easily identifiable*.
-
-## The thesis is not a road map
-
-A road map tells the reader what to expect in each part of the essay:
-
-> In the first section, I will . . . . Then, I will . . . . Finally, I will . . . .
-
-This is not a thesis; it serves a different function. A road map sometimes follows the thesis, but it is not the thesis itself.
 
 ## Notes
