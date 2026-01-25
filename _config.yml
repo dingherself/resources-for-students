@@ -27,6 +27,14 @@ url: "https://resources.dingherself.com" # the base hostname & protocol for your
 theme: just-the-docs
 search_enabled: true
 color_scheme: ding
+aux_links:
+  "@ Barnard":
+    - "https://philosophy.barnard.edu/major"
+  "@ Columbia":
+    - "https://philosophy.columbia.edu/content/undergraduate-major-philosophy"
+aux_links_new_tab: true
+
+
 plugins:
   - jekyll-sitemap
   - jekyll-target-blank

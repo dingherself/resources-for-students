@@ -9,12 +9,16 @@ permalink: /
 {: .mb-4 }
 
 [Ding](https://dingherself.com) (Barnard College)
-{: .fs-5 }
+{: .fs-5 .mb-6 }
 
-🪄🏗 *Under construction* 🦺🔧
+🪄🏗 *Under Construction* 🦺🔧
 
+## Spring 2026 courses
 
-<p class="mt-7">
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: 0em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><br />
-Except where otherwise noted, these resources are made available under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> license.
-</p>
+- My own:
+    - [Phil 1001: Introduction to Philosophy](https://intro.dingherself.com)
+    - [Phil 2109: Love, Gender, and Sex](https://diotima.dingherself.com)
+    - [Phil 3751: Political Philosophy](https://pol.dingherself.com)
+- All philosophy courses on offer:
+    - [@ Barnard](https://doc.sis.columbia.edu/#sel/PHLB_Spring2026.html)
+    - [@ Columbia](https://doc.sis.columbia.edu/#sel/PHIL_Spring2026.html)
