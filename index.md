@@ -1,0 +1,20 @@
+---
+title: About
+layout: home
+nav_order: 1
+permalink: /
+---
+
+# Resources for Philosophy Students
+{: .mb-4 }
+
+[Ding](https://dingherself.com) (Barnard College)
+{: .fs-5 }
+
+🪄🏗 *Under construction* 🦺🔧
+
+
+<p class="mt-7">
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: 0em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><br />
+Except where otherwise noted, these resources are made available under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> license.
+</p>
