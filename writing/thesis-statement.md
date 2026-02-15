@@ -17,12 +17,10 @@ A thesis clearly and concisely states
 
 Here’s an example in context, with the thesis in bold:
 
-> A crucial step in [the feminist] movement has been the recognition that the preferences of both men and women are in some respects distorted by a legacy of injustice and hierarchy. **Such a recognition, I shall argue, is not intrinsically undemocratic: indeed, when appropriately constrained, it is at the heart of the most profound liberal-democratic thought in both the Utilitarian and the Kantian traditions.** Understanding this is important not just because it helps us read the past correctly but, above all, because it helps us choose directions for the future.[^nussbaum]
-
-[^nussbaum]: Martha Nussbaum, “American Women: Preferences, Feminism, Democracy,” in *Sex and Social Justice* (New York: Oxford University Press, 1999), p. 132 (my emphasis).
+> A crucial step in [the feminist] movement has been the recognition that the preferences of both men and women are in some respects distorted by a legacy of injustice and hierarchy. **Such a recognition, I shall argue, is not intrinsically undemocratic: indeed, when appropriately constrained, it is at the heart of the most profound liberal-democratic thought in both the Utilitarian and the Kantian traditions.** Understanding this is important not just because it helps us read the past correctly but, above all, because it helps us choose directions for the future. (Nussbaum 1999, 132, my emphasis)
 
 {: .note-title }
-> 📌 The thesis is not a road map
+> &#128204; The thesis is not a road map
 >
 > A road map tells the reader what to expect in each part of the paper:
 > 
@@ -48,4 +46,6 @@ In other words, a good thesis should be *just narrow enough* to be **arguable**.
 2. It should offer a more or less *original* (as one of my undergraduate professors likes to say, *newsworthy to your classmates*) answer to that question in a way that extends our discussions.
 3. It should also be *well focused*, *clearly stated*, and *easily identifiable*.
 
-## Notes
+## References
+
+Nussbaum, Martha C. 1999. “American Women: Preferences, Feminism, Democracy.” In *Sex and Social Justice*, 130–53. New York: Oxford University Press.
