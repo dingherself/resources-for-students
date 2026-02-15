@@ -32,7 +32,7 @@ Here’s an example in context, with the thesis in bold:
 
 One common mistake is a thesis that’s overbroad or overambitious:
 
-> In this essay, I will suggest that utilitarianism is the correct moral theory on the grounds that it is the most intuitive.
+> In this essay, I will argue that Kant’s ethics is the correct moral theory on the grounds that it is the most intuitive.
 
 It’s just not the kind of thing you can defend in a short paper.
 
