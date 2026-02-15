@@ -40,7 +40,8 @@ The flip side of the problem is when students forget <span style="font-variant: 
 > - Cast doubt on the truth of the evidence/premises cited in support of the conclusion (e.g., “Kant’s project begins with the idea that moral laws can be grounded in rational agency; I argue that this is not in fact possible”);
 > - Suggest that the conclusion would not follow even if all of the evidence/premises were true (so the reasoning commits some kind of fallacy);
 > - Introduce countervailing considerations, alternative positions, or further complications not yet taken into account;
-> - Uncover some self-undermining internal inconsistency or tension;
+> - Uncover and challenge an unstated assumption;
+> - Exploit some internal inconsistency or tension;
 > - Zoom out to litigate the relative strength of competing views on the big picture level;
 > - Problematize how the question at issue is framed (e.g., “No, personal issues are political issues”);
 > - Draw out an implausible implication of the conclusion defended (i.e., *reductio ad absurdum*);
