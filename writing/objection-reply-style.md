@@ -25,9 +25,9 @@ It’s also easy to anticipate how the main parts of paper would be organized:
 3. Another expository section presenting the flicker theorists’ **objection** to robustness; and
 3. An argumentative section offering the author’s **reply** to the flicker theorists’ objection, including consideration of plausible further objections/complications.
 
-We often tell students that we are not asking for mere summaries of materials we’ve read but want to hear students’ own voices and reflections. What we mean is that sec. 3 should be the star of the show, not one paragraph trailing in the end like an afterthought; it should take up at least its third of the space, if not over half.
+We often tell students that we are not asking for mere summaries of materials we’ve read but want to hear students’ own voices and reflections. What we mean is that <span style="font-variant: small-caps;">sec. 3</span> should be the star of the show, not one paragraph trailing in the end like an afterthought; it should take up at least its third of the space, if not over half.
 
-The flip side of the problem is when students forget sec. 1 or rush sec. 2. This is why we encourage students to imagine that they are writing to a friend who has not taken a philosophy class, who needs them to slow down, contextualize, explain their terms, and make explicit their assumptions and inferences.
+The flip side of the problem is when students forget <span style="font-variant: small-caps;">sec. 1</span> or rush <span style="font-variant: small-caps;">sec. 2</span>. This is why we encourage students to imagine that they are writing to a friend who has not taken a philosophy class, who needs them to slow down, contextualize, explain their terms, and make explicit their assumptions and inferences.
 
 {: .note-title }
 > &#9924; Attacking a strawman is no fun
