@@ -48,4 +48,4 @@ In other words, a good thesis should be *just narrow enough* to be **arguable**.
 
 ## References
 
-Nussbaum, Martha C. 1999. “American Women: Preferences, Feminism, Democracy.” In *Sex and Social Justice*, 130–53. New York: Oxford University Press.
+Nussbaum, Martha C. 1999. “American Women: Preferences, Feminism, Democracy.” In her *Sex and Social Justice*, 130–53. New York: Oxford University Press.
