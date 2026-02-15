@@ -5,13 +5,13 @@ nav_order: 1
 permalink: /
 ---
 
+🪄🏗 *Under Construction* 🦺🔧
+{: .fs-3 .mb-4 .text-center }
+
 # Resources for Philosophy Students
 {: .mb-4 }
 
 [Ding](https://dingherself.com) (Barnard College)
-{: .fs-5 .mb-6 }
-
-🪄🏗 *Under Construction* 🦺🔧
 
 ## Spring 2026 courses
 
