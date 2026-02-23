@@ -32,7 +32,7 @@ The flip side of the problem is when students forget <span style="font-variant: 
 {: .note-title }
 > &#9924; Attacking a strawman is no fun
 >
-> One of the most compelling ways to defend an argument you find compelling is to show that the *strongest* objection to it fails. Likewise, one of the most compelling ways to critique an argument you have problems with is to focus on your *strongest* objection so you have the space to develop it and defend it against the strongest plausible reply.
+> One of the most compelling ways to defend an argument you find appealing is to show that the *strongest* objection to it fails. Likewise, one of the most compelling ways to critique an argument you have problems with is to focus on your *strongest* objection so you have the space to develop it and defend it against the strongest plausible reply.
 
 {: .note-title }
 > &#9995; A non-exclusive library of objections
