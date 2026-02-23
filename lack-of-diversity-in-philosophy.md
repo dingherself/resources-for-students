@@ -6,7 +6,7 @@ nav_order: 20
 
 # (Lack of) Diversity in Philosophy
 
-- Naomi Scheman (BC ’68), “[Reflections on Sixty Years in Philosophy As It Is Profoundly Changing, or So I Hope](https://drive.proton.me/urls/S87EVKY3T8#HDeysh5iZR9d),” Dewey Lecture, American Philosophical Association, Eastern Division, 2025
+- Naomi Scheman (BC ’68), “[Reflections on Sixty Years in Philosophy as It Is Profoundly Changing, or So I Hope](https://drive.proton.me/urls/S87EVKY3T8#HDeysh5iZR9d),” Dewey Lecture, American Philosophical Association, Eastern Division, 2025
 - Ding and Willow Starr, eds., [*Being Trans in Philosophy*](http://being.transinphilosophy.org), no. 0 (June 2025)
 - Alison Jaggar, “[Academic Philosophy: What Is It? What Do We Want It To Be?](https://blog.apaonline.org/2025/05/13/2019-central-division-dewey-lecture-academic-philosophy-what-is-it-what-do-we-want-it-to-be),” Dewey Lecture, American Philosophical Association, Central Division, 2019
 - Amy Marvin, “[A Brief History of Trans Philosophy](https://contingentmagazine.org/2019/09/21/trans-philosophy/),” *Contingent Magazine* (2019)
